@@ -19,6 +19,6 @@ public class Solution
             map[nums[i]] = i;
         }
 
-        return new int[] { }; // should never reach here given constraints
+        return new int[] { };
     }
 }
